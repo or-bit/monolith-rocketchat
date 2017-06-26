@@ -13,6 +13,7 @@ in Rocket.Chat.
 ## 2. Install this integration package
   From Rocket.Chat root source folder:
   -  `git clone https://github.com/or-bit/monolith-rocketchat.git packages/monolith`
+  -  create appropriate routes.js file (look at the paragraph below)
   -  `meteor add monolith`
 
 # How do you use this package?
