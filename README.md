@@ -35,6 +35,7 @@ The routes object must be an object with this structure:
       "route": "endpointForBubble#2",
     },
     ...
-  };```
+  };
+  ```
 
-If you're still in doubts, you can take a look at the routes-example.js file in this repository.
+If you're still in doubt, you can take a look at the routes-example.js file in this repository.
